@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agents of S.H.I.E.L.D</string>
+
+    <string name="title_activity_shield__id">Shield_ID</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
